@@ -1,2 +1,1 @@
-# stepik
-scripts
+Уроки к курсу Stepik
